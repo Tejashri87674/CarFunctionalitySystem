@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\car_sim.dir\\main.cpp.obj -c C:\\Users\\adsur\\OneDrive\\Desktop\\placements\\KPIT\\kanetkar\\CarFunctionalitySystem1\\main.cpp",
+  "file": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/main.cpp",
+  "output": "CMakeFiles/car_sim.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\car_sim.dir\\car.cpp.obj -c C:\\Users\\adsur\\OneDrive\\Desktop\\placements\\KPIT\\kanetkar\\CarFunctionalitySystem1\\car.cpp",
+  "file": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/car.cpp",
+  "output": "CMakeFiles/car_sim.dir/car.cpp.obj"
+},
+{
+  "directory": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\test_runner.dir\\test.cpp.obj -c C:\\Users\\adsur\\OneDrive\\Desktop\\placements\\KPIT\\kanetkar\\CarFunctionalitySystem1\\test.cpp",
+  "file": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/test.cpp",
+  "output": "CMakeFiles/test_runner.dir/test.cpp.obj"
+},
+{
+  "directory": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\test_runner.dir\\car.cpp.obj -c C:\\Users\\adsur\\OneDrive\\Desktop\\placements\\KPIT\\kanetkar\\CarFunctionalitySystem1\\car.cpp",
+  "file": "C:/Users/adsur/OneDrive/Desktop/placements/KPIT/kanetkar/CarFunctionalitySystem1/car.cpp",
+  "output": "CMakeFiles/test_runner.dir/car.cpp.obj"
+}
+]
